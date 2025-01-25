@@ -14,9 +14,8 @@ Bem-vindo ao **Ganhei Na Mega**! 🎉 Este é um aplicativo simples, desenvolvid
 
 ## 📱 Demonstração  
 
-<img src="https://via.placeholder.com/300x600.png?text=Ganhei+na+Mega+App" width="250" alt="Imagem do app"/>
+<img src="app/src/main/res/img/Screenshot_20250125_195503.png" width="250" alt="Imagem do app"/>
 
-*(Adicione um print do aplicativo aqui! 🖼️ Se precisar de ajuda, posso explicar como tirar screenshots no emulador do Android Studio.)*
 
 ---
 

@@ -103,4 +103,4 @@ Se quiser contribuir, fique à vontade! 🤝
 
 ---
 
-Feito com 💜 por [Wellington Damasceno](https://github.com/wellfurtado) 🚀  
+Feito por [Wellington Damasceno](https://github.com/wellfurtado) 🚀  
